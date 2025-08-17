@@ -86,7 +86,7 @@ python3 shortest_path.py
 
 Edit the my_graph dictionary or function call as necessary
 
-⚙**Function Signature** 
+**Function Signature** 
 shortest_path(graph, start, target='') 
 
 
