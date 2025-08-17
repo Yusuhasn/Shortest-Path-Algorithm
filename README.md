@@ -75,7 +75,7 @@ A-F distance: 8
 Path: A -> C -> B -> F  
 
 
-**How to get started **
+**How to get started**
 
 Clone the repo or copy the code into a .py file
 
@@ -99,7 +99,7 @@ target: Target node to find the path to (optional field)
 If target is left blank the function will print distances/paths to every node 
 
 
-**Notes **
+**Notes**
 
 The function assumes the graph is undirected 
 
